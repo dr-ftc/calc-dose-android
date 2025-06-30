@@ -1,0 +1,24 @@
+# Arquivos de log e dependências
+/node_modules
+/package-lock.json
+npm-debug.log
+
+# Arquivos de sistema e de IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Pasta de compilação do Capacitor e do Android
+/www
+/android/app/build
+/android/build
+/android/.gradle
+/android/gradle
+/android/app/src/main/assets/capacitor.config.json
+/android/app/src/main/java/com/
+*.apk
+*.aab
+
+# Variáveis de ambiente
+.env

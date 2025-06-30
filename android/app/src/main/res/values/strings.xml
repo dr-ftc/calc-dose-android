@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ml/h to mcg/kg/min</string>
+    <string name="title_activity_main">Ml/h to mcg/kg/min</string>
+    <string name="package_name">com.drftc.calc</string>
+    <string name="custom_url_scheme">com.drftc.calc</string>
+</resources>
